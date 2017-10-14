@@ -15,5 +15,4 @@ Put your best face forward, and bring your Carleton StalkerNet profile into the 
 
 ![moodle](images/moodle.png)
 
----
-> Classes are hard at Carleton, but finding love doesn't have to be!
+Classes are hard at Carleton, but finding love doesn't have to be!
